@@ -1,0 +1,58 @@
+.App{
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    color: rgb(118, 234, 234);
+    min-height: 100vh;
+
+    
+}
+
+/* .header{
+    background-color: yellow;
+    color: black;
+} */
+
+.footer{
+    background-color: rgb(187, 187, 252);
+    color: beige;
+}
+
+#idh{
+    font-size: 50px;
+    padding-bottom: 50px ;
+}
+
+h1{
+    margin: 0;
+}
+
+.header{
+    background-color: rgb(124, 199, 245);
+    padding: 8px;
+    color: black;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 14px;
+}
+
+.movie{
+    background-color: rgb(246, 191, 191);
+    color: black;
+    border:  1px solid black;
+    padding: 3px;
+    font-weight: bold;
+    text-align: start;
+    width: 22%;
+    margin-bottom: 14px;
+
+}
+
+.movie img{
+    height: 200px;
+    width: 100%;
+}
